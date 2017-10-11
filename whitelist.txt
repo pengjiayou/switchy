@@ -35,7 +35,6 @@
 *.bilibili.com +direct
 *.flyvp.com +direct
 *.kanimg.com +direct
-*.kankan.com +direct
 *.ku6.com +direct
 *.ku6cdn.com +direct
 *.ku6img.com +direct
