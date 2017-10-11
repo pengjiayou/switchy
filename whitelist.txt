@@ -13,6 +13,7 @@
 *.126.net +direct
 *.163.com +direct
 *.baidu.com +direct
+*.bing.com +direct
 *.douban.com +direct
 *.qq.com +direct
 *.jd.com +direct
