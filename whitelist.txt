@@ -42,8 +42,8 @@
 *.letvcdn.com +direct
 *.letvcloud.com +direct
 *.letvimg.com +direct
-.xunlei.com +direct
-.kankan.com +direct
+*.xunlei.com +direct
+*.kankan.com +direct
 
 *.lowendtalk.com +direct
 *.namecheap.com +direct
