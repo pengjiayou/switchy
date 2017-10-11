@@ -6,19 +6,38 @@
 *.cc +direct
 *.edu +direct
 
+*.126.net +direct
+*.163.com +direct
 *.baidu.com +direct
-*.bilibili.com +direct
 *.douban.com +direct
-*.douban.fm +direct
-*.v2ex.com +direct
-*.alipay.com +direct
-
-*.youku.com +direct
-*.flyvp.com +direct
 *.qq.com +direct
 *.jd.com +direct
-*.163.com +direct
+*.taobao.com +direct
 *.zhihu.com +direct
+*.v2ex.com +direct
+*.weibo.com +direct
+*.alipay.com +direct
+*.alicdn.com +direct
+*.apple.com +direct
+*.dianping.com +direct
+*.smartisan.com +direct
+*.sogou.com +direct
+*.sohu.com +direct
+
+*.douban.fm +direct
+*.soku.com +direct
+*.youku.com +direct
+*.bilibili.com +direct
+*.flyvp.com +direct
+*.kanimg.com +direct
+*.kankan.com +direct
+*.ku6.com +direct
+*.ku6cdn.com +direct
+*.ku6img.com +direct
+*.letv.com +direct
+*.letvcdn.com +direct
+*.letvcloud.com +direct
+*.letvimg.com +direct
 
 *.lowendtalk.com +direct
 *.namecheap.com +direct
@@ -26,5 +45,10 @@
 *.hostloc.com +direct
 *.daocloud.io +direct
 *.aliyun.com +direct
+*.sinaapp.com +direct
+
+10.* +direct
+127.* +direct
+192.168.* +direct
 
 * +SOCKS5
