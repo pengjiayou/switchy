@@ -10,11 +10,16 @@
 *.io +direct
 *.cc +direct
 
+*.51.com +direct
+*.56.com +direct
+*.58.com +direct
 *.126.net +direct
 *.163.com +direct
+*.1688.com +direct
+
 *.baidu.com +direct
-*.qq.com +direct
 *.bing.com +direct
+*.qq.com +direct
 *.jd.com +direct
 *.taobao.com +direct
 *.zhihu.com +direct
@@ -27,14 +32,11 @@
 *.smartisan.com +direct
 *.sogou.com +direct
 *.ganji.com +direct
-*.58.com +direct
 *.xinhuanet.com +direct
 *.kaixin001.com +direct
 *.renren.com +direct
-*.51.com +direct
 *.mop.com +direct
 *.dangdang.com +direct
-*.1688.com +direct
 *.skycn.com +direct
 *.tom.com +direct
 *.xici.net +direct
@@ -61,7 +63,6 @@
 *.kankan.com +direct
 *.tudou.com +direct
 *.iqiyi.com +direct
-*.56.com +direct
 *.pomoho.com +direct
 *.hupo.tv +direct
 *.le.com +direct
