@@ -29,9 +29,11 @@
 *.sogou.com +direct
 *.sohu.com +direct
 
-*.douban.fm +direct
+*.douyu.com +direct
+*.huya.com +direct
 *.soku.com +direct
 *.youku.com +direct
+*.douban.fm +direct
 *.bilibili.com +direct
 *.flyvp.com +direct
 *.kanimg.com +direct
