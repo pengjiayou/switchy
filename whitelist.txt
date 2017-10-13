@@ -7,14 +7,6 @@
 
 *.cn +direct
 *.edu +direct
-*.me +direct
-*.im +direct
-*.cc +direct
-*.io +direct
-*.tt +direct
-*.ms +direct
-*.mk +direct
-*.sb +direct
 
 *.51.com +direct
 *.56.com +direct
@@ -90,5 +82,6 @@
 *.daocloud.io +direct
 *.aliyun.com +direct
 *.sinaapp.com +direct
+sm.ms +direct
 
 *.github.com +direct
