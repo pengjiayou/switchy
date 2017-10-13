@@ -7,17 +7,31 @@
 
 *.cn +direct
 *.edu +direct
-*.io +direct
+*.me +direct
+*.ly +direct
+*.im +direct
 *.cc +direct
+*.io +direct
+*.tt +direct
+*.ms +direct
+*.mk +direct
+*.sb +direct
+*.org +direct
+*.info +direct
+*.tech +direct
 
 *.51.com +direct
 *.56.com +direct
 *.58.com +direct
 *.126.net +direct
+*.115.com +direct
 *.163.com +direct
+*.4399.com +direct
 *.1688.com +direct
+*.10010.com+direct
 
 *.baidu.com +direct
+*.hao123.com +direct
 *.bing.com +direct
 *.qq.com +direct
 *.jd.com +direct
