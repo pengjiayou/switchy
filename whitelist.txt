@@ -8,7 +8,6 @@
 *.cn +direct
 *.edu +direct
 *.me +direct
-*.ly +direct
 *.im +direct
 *.cc +direct
 *.io +direct
@@ -16,9 +15,6 @@
 *.ms +direct
 *.mk +direct
 *.sb +direct
-*.org +direct
-*.info +direct
-*.tech +direct
 
 *.51.com +direct
 *.56.com +direct
