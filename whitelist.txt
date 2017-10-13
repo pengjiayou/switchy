@@ -1,4 +1,5 @@
 [SwitchyOmega Conditions]
+@with result
 
 10.* +direct
 127.* +direct
