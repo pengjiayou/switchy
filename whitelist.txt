@@ -94,3 +94,5 @@
 *.daocloud.io +direct
 *.aliyun.com +direct
 *.sinaapp.com +direct
+
+*.github.com +direct
