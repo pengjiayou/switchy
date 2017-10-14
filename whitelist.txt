@@ -53,6 +53,7 @@
 *.youku.com +direct
 *.bilibili.com +direct
 *.flyvp.com +direct
+*.kuyunbo.club +direct
 *.kanimg.com +direct
 *.ku6.com +direct
 *.ku6cdn.com +direct
