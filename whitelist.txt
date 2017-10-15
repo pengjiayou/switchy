@@ -80,6 +80,7 @@
 *.namecheap.com +direct
 *.web-hosting.com +direct
 *.woothosting.com +direct
+*.nspops.com +direct
 *.hostloc.com +direct
 *.daocloud.io +direct
 *.daoapp.io +direct
