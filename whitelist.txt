@@ -86,6 +86,7 @@
 *.daoapp.io +direct
 *.aliyun.com +direct
 *.sinaapp.com +direct
+*.freenom.com +direct
 sm.ms +direct
 
 *.github.com +direct
