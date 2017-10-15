@@ -87,3 +87,4 @@
 sm.ms +direct
 
 *.github.com +direct
+*.paypal.com +direct
