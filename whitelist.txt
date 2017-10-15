@@ -79,6 +79,7 @@
 *.lowendtalk.com +direct
 *.namecheap.com +direct
 *.web-hosting.com +direct
+*.woothosting.com +direct
 *.hostloc.com +direct
 *.daocloud.io +direct
 *.daoapp.io +direct
