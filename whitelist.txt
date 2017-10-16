@@ -84,6 +84,7 @@
 *.hostloc.com +direct
 *.daocloud.io +direct
 *.daoapp.io +direct
+*.qbox.me +direct
 *.aliyun.com +direct
 *.sinaapp.com +direct
 *.freenom.com +direct
