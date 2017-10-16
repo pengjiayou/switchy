@@ -90,5 +90,4 @@
 sm.ms +direct
 
 *.github.com +direct
-*.docker.com +direct
 *.paypal.com +direct
