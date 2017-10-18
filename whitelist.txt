@@ -87,6 +87,7 @@
 *.growingio.com +direct
 *.qbox.me +direct
 *.aliyun.com +direct
+*.tencent.com +direct
 *.sinaapp.com +direct
 *.freenom.com +direct
 sm.ms +direct
