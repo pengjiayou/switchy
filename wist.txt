@@ -92,6 +92,7 @@
 *.sinaapp.com +direct
 *.freenom.com +direct
 *.kevsrv.com +direct
+*.gullo.me +direct
 sm.ms +direct
 
 *.github.com +direct
