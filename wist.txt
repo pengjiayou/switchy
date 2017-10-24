@@ -93,6 +93,8 @@
 *.freenom.com +direct
 *.kevsrv.com +direct
 *.gullo.me +direct
+*.gravatar.com +direct
+*.wp.com +direct
 sm.ms +direct
 
 *.git.io +direct
