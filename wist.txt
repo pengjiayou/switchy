@@ -91,6 +91,7 @@
 *.qcloud.com +direct
 *.sinaapp.com +direct
 *.freenom.com +direct
+*.kevsrv.com +direct
 sm.ms +direct
 
 *.github.com +direct
