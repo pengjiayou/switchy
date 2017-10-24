@@ -95,6 +95,7 @@
 *.gullo.me +direct
 sm.ms +direct
 
+*.git.io +direct
 *.github.com +direct
 *.docker.com +direct
 *.paypal.com +direct
