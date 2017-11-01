@@ -52,6 +52,8 @@
 *.soku.com +direct
 *.youku.com +direct
 *.bilibili.com +direct
+*.acgvideo.com +direct
+*.hdslb.com +direct
 *.flyvp.com +direct
 *.kuyunbo.club +direct
 *.kanimg.com +direct
@@ -93,14 +95,12 @@
 *.freenom.com +direct
 *.kevsrv.com +direct
 *.tragicservers.com +direct
+*.freecpanelsharedhosting.com +direct
+*.ppub.pub +direct
 *.gullo.me +direct
 *.gravatar.com +direct
 *.wp.com +direct
 sm.ms +direct
 
-*.git.io +direct
-*.github.com +direct
-*.githubusercontent.com +direct
 *.docker.com +direct
 *.paypal.com +direct
-
