@@ -85,6 +85,7 @@
 *.nspops.com +direct
 *.hostloc.com +direct
 *.daocloud.io +direct
+*.c9.io +direct
 *.daoapp.io +direct
 *.growingio.com +direct
 *.qbox.me +direct
